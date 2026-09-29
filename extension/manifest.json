@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Soma — Body & Mind Tracker",
+  "version": "0.1.0",
+  "description": "A lightweight daily mind-body journal with quick logging and pattern-aware summaries.",
+  "action": { "default_title": "Open Soma", "default_popup": "popup.html" },
+  "permissions": ["storage"],
+  "options_page": "options.html"
+}
